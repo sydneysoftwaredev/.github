@@ -30,7 +30,7 @@ Our experienced team, including engineers with over 20 years in the industry, pr
 
 <p align="center">
   <a href="https://buy.nsw.gov.au/supplier/profile/142043" title="Approved Supplier under the buy.nsw ICT Services Scheme">
-    <img src="https://www.sydney.software/images/nsw-govt.png" alt="NSW Govt buy.nsw logo" height="75" />
+    <img src="https://www.sydney.software/images/nsw-govt.png?1" alt="NSW Govt buy.nsw logo" height="75" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apps.xero.com/au/search?q=sydney%20software%20development">
