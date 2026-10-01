@@ -14,11 +14,10 @@ We design, build and improve business applications, with proven expertise in Xer
 - Integrations and automation ([Xero](https://www.sydney.software/services/xero-api-integration/), [MYOB](https://www.sydney.software/services/myob-api-integration/))
 - [Improve existing software](https://www.sydney.software/services/custom-software-development/#improve-existing-software)
 
-Our experienced team, including engineers with over 20 years in the industry, prioritises clear communication, and long-term maintainability. We stay current with modern development practices to solve the problems that matter most to our clients.
+Our experienced team, including engineers with over 20 years in the industry, prioritises clear communication and long-term maintainability. We stay current with modern development practices to solve the problems that matter most to our clients.
 
 ## ✅ Why Us
 
-- 📈 Focused on business outcomes, not just code
 - 🎯 The outcome you need, with the least software to own
 - $ All work is fixed price
 - 🔄 Reliable delivery
@@ -36,7 +35,7 @@ Our experienced team, including engineers with over 20 years in the industry, pr
   </a>
 </p>
 
-Whether you need a long-term development partner or help getting an idea off the ground, we bring the experience, communication, and delivery you need.
+Speak with our principal consultant about what you're trying to solve. All our work is fixed price.
 
 ## 🤝 Trusted By
 
@@ -51,6 +50,6 @@ Whether you need a long-term development partner or help getting an idea off the
 
 ## 📞 Get in Touch
 
-🌐 [sydney.software](https://sydney.software/)  
-📧 [Discuss your project](https://sydney.software/get-started/)  
+🌐 [sydney.software](https://www.sydney.software/)  
+📧 [Discuss your project](https://www.sydney.software/get-started/)  
 📱 1300 878 770
