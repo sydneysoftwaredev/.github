@@ -4,32 +4,30 @@
 
 # Sydney Software Development
 
-**Software Done Right, the First Time**
+**Custom software that makes your business work better.**
 
-Sydney Software Development is a Sydney-based consultancy specializing in high-quality, custom software solutions that drive real business value. Since 2010, we've helped organizations of all sizes streamline operations and improve efficiency through pragmatic software engineering.
+We design, build and improve business applications, with proven expertise in Xero integrations and business process automation.
 
 ## 💼 What We Do
 
-- 🚀 Custom Software Development
-- 🔌 API Integration & Process Automation
-- ☁️ SaaS Development (Laravel)
-- 📊 MYOB & Xero App Development
-- 🧰 Software Audits & Technical Resourcing
-- ⚙️ CI/CD & Cloud Deployment
+- [Custom software development](https://www.sydney.software/services/custom-software-development/)
+- Integrations and automation ([Xero](https://www.sydney.software/services/xero-api-integration/), [MYOB](https://www.sydney.software/services/myob-api-integration/))
+- [Improve existing software](https://www.sydney.software/services/custom-software-development/#improve-existing-software)
 
-Our experienced team, including engineers with over 20 years in the industry, prioritises clear communication, robust solutions, and long-term maintainability. We stay current with modern development practices to solve the problems that matter most to our clients.
+Our experienced team, including engineers with over 20 years in the industry, prioritises clear communication, and long-term maintainability. We stay current with modern development practices to solve the problems that matter most to our clients.
 
 ## ✅ Why Us
 
-- 🧠 Deep technical expertise with a pragmatic, no-nonsense approach
 - 📈 Focused on business outcomes, not just code
-- 🔄 Transparent pricing and reliable delivery
+- 🎯 The outcome you need, with the least software to own
+- $ All work is fixed price
+- 🔄 Reliable delivery
 - 🧩 Strong experience with integrating complex systems and APIs
-- ✅ Approved provider under the **buy.nsw ICT Services Scheme**
+- ✅ Approved Advanced Supplier under the **buy.nsw ICT Services Scheme**
 - 🧾 **Xero Developer Partner**
 
 <p align="center">
-  <a href="https://buy.nsw.gov.au/supplier/profile/142043" title="Approved Supplier under the buy.nsw ICT Services Scheme">
+  <a href="https://buy.nsw.gov.au/supplier/profile/142043" title="Approved Advanced Supplier under the buy.nsw ICT Services Scheme">
     <img src="https://www.sydney.software/images/nsw-govt.png?1" alt="NSW Govt buy.nsw logo" height="75" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,12 +42,15 @@ Whether you need a long-term development partner or help getting an idea off the
 
 - Western Sydney University
 - Truescope
+- Polinode
+- inbudget
+- PrAcc Data
 - Hub Australia
 - Secret Customer Australia
 - And many more…
 
 ## 📞 Get in Touch
 
-🌐 [sydney.software](https://www.sydney.software/)  
-📧 [Contact Us](https://www.sydney.software/contact/)  
+🌐 [sydney.software](https://sydney.software/)  
+📧 [Discuss your project](https://sydney.software/get-started/)  
 📱 1300 878 770
